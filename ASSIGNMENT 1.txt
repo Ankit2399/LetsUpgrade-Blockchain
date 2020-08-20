@@ -1,0 +1,20 @@
+Q1. What is Blockchain in your words ? *
+
+According to me the Blockchain can be:
+• A mix of technology i.e. Distributed Database and Cryptography where 
+   information is verifiable, unchangeable, tamper-proof and immutable.
+• Making millions of copy of same document at different places is known as Distributed Data Base.
+• Converting the whole data in digital Signature is known as Cryptography.
+• Block Chain is all about huge amount of data storing in different places.
+
+
+Q2. What was the need of Blockchain ? *
+When US investment bank Lehman Brothers Holdings Inc. filed for bankruptcy in 2008, it shook people’s faith in banks so much that a new class of asset, which did not have the banking of any formal bank, came into being. Bitcoin, based on the Blockchain, the most popular cryptocurrency, first found a mention in November 2008, about two months after the Lehman crisis.
+
+
+
+
+Q3. What is Hash do a small demo and upload the photo here  ? *
+Q4. What does a Block Contain  *
+Q5. Experiment with Blockchain in real example with https://andersbrownworth.com/blockchain/blockchain
+((ANSWERS TO 3,4 AND 5TH Q's SUBMITTED IN GOOGLE FORM))
